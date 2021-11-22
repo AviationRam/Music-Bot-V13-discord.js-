@@ -56,7 +56,7 @@ client.on("message", async (message) => {
 
   if (!command) return;
 
-  if (!cooldowns.has(command.name)) {
+  if (!cooldowns.has(command.name)) { //This is the cooldown section where it will search if a command have a cooldown.
     cooldowns.set(command.name, new Collection());
   }
 
