@@ -1,0 +1,11 @@
+{
+  "TOKEN": "PUT TOKEN HERE",
+  "YOUTUBE_API_KEY": "PUT YOUTUBE API TO OBTAIN ONE LINK FOR VIDEO DOWN IN DESCRIBTION",
+  "SOUNDCLOUD_CLIENT_ID": "PUT SOUDCLOD API ID",
+  "MAX_PLAYLIST_SIZE": 50,
+  "PREFIX": ";", //Put prefix here, original is ;
+  "PRUNING": false,
+  "LOCALE": "en",
+  "STAY_TIME": 2,
+  "DEFAULT_VOLUME": 65 //This is the recommanded default volume.
+}
